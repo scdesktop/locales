@@ -1,0 +1,7 @@
+# Only for GitHub
+.github/
+assets/
+.gitignore
+LICENSE
+README.rst
+#:--------------:

@@ -11,3 +11,7 @@ end_of_line = lf
 [*.rst]
 indent_style = tab
 indent_size = 2
+
+[*.json]
+indent_style = tab
+indent_size = 2
