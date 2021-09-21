@@ -1,7 +1,5 @@
-# Only for GitHub
-.github/
-assets/
+.github
 .gitignore
+.editorconfig
 LICENSE
 README.rst
-#:--------------:
