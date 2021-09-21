@@ -5,13 +5,8 @@ charset = utf-8
 indent_style = tab
 indent_size = 4
 insert_final_newline = true
-# trim_trailing_writespace = true
 end_of_line = lf
 
-[*.rst]
-indent_style = tab
-indent_size = 2
-
 [*.json]
-indent_style = tab
+indent_style = space
 indent_size = 2
